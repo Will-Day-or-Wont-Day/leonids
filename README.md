@@ -1,6 +1,6 @@
 # Leonids Gatsby starter
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean, fixed sidebar Gatsby starter which is perfect for powering your GitHub hosted blog.
+This is where my github blog begins, but not where it ends. There's so much more in store...
 
 ### Preview
 
