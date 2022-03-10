@@ -16,6 +16,8 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 # Heading 1
 
+Making a test edit.
+
 ## Heading 2
 
 ### Heading 3

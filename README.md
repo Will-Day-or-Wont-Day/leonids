@@ -1,4 +1,4 @@
-# Leonids Gatsby starter
+# Will Day's Github Page
 
 This is where my github blog begins, but not where it ends. There's so much more in store...
 
